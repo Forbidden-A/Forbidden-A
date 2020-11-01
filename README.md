@@ -1,6 +1,3 @@
-<!--
-**Forbidden-A/Forbidden-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Favorite languages
 
 - Python
