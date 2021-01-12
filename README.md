@@ -2,7 +2,7 @@
 
 - Python
 - Rust
-- TypeScript
+- Kotlin
 
 ## Statistics
 
